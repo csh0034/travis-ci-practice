@@ -13,4 +13,9 @@ class TravisCiPracticeApplicationTests {
     log.info("contextLoads");
   }
 
+  @Test
+  void build() {
+    log.info("build");
+  }
+
 }
