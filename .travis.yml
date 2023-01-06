@@ -15,3 +15,8 @@ cache:
     - '$HOME/.gradle'
 
 script: "./gradlew clean build"
+
+notifications:
+  email:
+    recipients:
+      - csh0034@gmail.com
