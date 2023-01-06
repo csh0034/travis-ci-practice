@@ -6,7 +6,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 @Slf4j
-class TravisCiPracticeA pplicationTests {
+class TravisCiPracticeApplicationTests {
 
   @Test
   void contextLoads() {
