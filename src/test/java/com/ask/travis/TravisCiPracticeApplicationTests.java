@@ -15,7 +15,7 @@ class TravisCiPracticeApplicationTests {
 
   @Test
   void build() {
-    log.info("build, mail test");
+    log.info("build, mail test1");
   }
 
 }
